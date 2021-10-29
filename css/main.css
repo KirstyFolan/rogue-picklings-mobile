@@ -187,7 +187,7 @@ footer span {
 	 flex-direction: row;
 	 justify-content: flex-start;
 	 align-items: flex-start;
-	 border-top: 1px solid darkgray;
+	 border-top: 2px solid lightgray;
 
  }
 .section-one {
@@ -196,8 +196,8 @@ footer span {
 }
 .section-two {
 	width: 30%;
-	border-left: 1px solid darkgray;
-	border-right: 1px solid darkgray;
+	border-left: 1px solid lightgray;
+	border-right: 1px solid lightgray;
 
 }
 .section-three {
