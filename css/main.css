@@ -139,7 +139,8 @@ header nav ul li a{
 .menu {
 	list-style: none;
 	text-align: left;
-	padding: none;
+	padding: 0;
+	text-indent: 0;
 }
 .menu li {
 	padding: 10px;
