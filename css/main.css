@@ -140,7 +140,7 @@ header nav ul li a{
 .section-three h3 {
 	padding: 10px 30px;
 	border-top: darkgray 1px solid;
-	width: 90%;
+	width: 80%;
 }
 
 .menu {
@@ -243,6 +243,10 @@ footer span {
 
 	header nav ul li {
 		padding-left: 40px;
+	}
+
+	header h1 {
+		width: 50%;
 	}
 
 	.main-image img {
