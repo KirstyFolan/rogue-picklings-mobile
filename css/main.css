@@ -93,10 +93,17 @@ header nav ul li a{
 .bottom-section {
 	margin: 0 auto;
 	display: flex;
-	justify-content: center;
 	align-items: center;
 	flex-direction: column;
 	width: 90%;
+}
+
+.bottom-section {
+	justify-content: space-between;
+}
+
+.top-section {
+	justify-content: center;
 }
 
 .main-image img {
@@ -120,7 +127,7 @@ header nav ul li a{
 .section-one,
 .section-two,
 .section-three {
-	width: 90%;
+	width: 33%;
 	height: auto;
 	
 
@@ -143,7 +150,8 @@ header nav ul li a{
 	text-indent: 0;
 }
 .menu li {
-	padding: 10px;
+	padding-left: 30px;
+	padding-top: 10px;
 	color:#77a466;
 }
 
